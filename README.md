@@ -17,3 +17,12 @@ Papers about LLMs that I intend to read
 
 ## MS MARCO
 [The tale of two MS MARCO - and their unfair comparisons](https://arxiv.org/pdf/2304.12904) Apr 23
+
+## LLM Optimization
+
+### Memory Optimization 
+[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054) Oct 19
+
+### Model Parallelism
+
+### Data Parallelism
