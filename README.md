@@ -21,7 +21,7 @@ Papers about LLMs that I intend to read
 ## LLM Optimization
 
 ### Memory Optimization 
-[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054) Oct 19
+[ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054) Oct 19 - Read till the end of deep dive Zero-DP.
 
 ### Model Parallelism
 
